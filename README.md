@@ -80,7 +80,7 @@
 ### Self-hosting (For Devs) 😎
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/Sadew451/Natsuki
+$ git clone https://github.com/divyanshmusic/Natsuki
 $ cd Natsuki
 # Upgrade sources
 $ bash deploy.sh
